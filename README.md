@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eric+França;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Developer+full+stack;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EricFranca96&bg_color=0d1117&color=00FF00&line=FFFFFF&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -37,5 +37,3 @@
  
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
-  
- ![Snake animation](https://github.com/EricFranca96/EricFranca96/blob/output/github-contribution-grid-snake.svg)
