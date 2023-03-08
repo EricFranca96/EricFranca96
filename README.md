@@ -33,6 +33,8 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricFranca96}/count.svg" /></p> 
 <br>
+  
+  ![Snake animation](https://github.com/EricFranca96/EricFranca96/blob/output/github-contribution-grid-snake.svg)
 </div>
  
   
