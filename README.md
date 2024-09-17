@@ -1,7 +1,15 @@
-Olá sou Eric França, estudante de Programação Web!!
+# Olá sou Eric França, estudante de Programação Web!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricFranca96&show_icons=true&theme=dracula)
 
+<a href="https://github.com/EricFranca96/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EricFranca96&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/EricFranca96/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricFranca96&layout=compact&langs_count=8&card_width=200&theme=dracula" />
+</a>
+
+
+## Studying at the moment
 <div style="display: inline_block"><br>
   <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Eric-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
